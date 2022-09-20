@@ -10,14 +10,14 @@ header{
 
 body{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 10px;
+    font-size: 15px;
     background-color: rgb(233, 227, 227);
 }
 .container {
    background-color: aliceblue;
    border-radius: 5px;
-   width: 600px;
-    margin: auto;
+   width: 700px;
+   margin: auto;
   /*margin-top: 30px;*/
 }
 
@@ -26,8 +26,33 @@ main {
 }
 
 .bt-1{
-background-color: rgb(107, 169, 231);
-border-radius: 10px;
-margin-left: 2em;
+    background-color: rgb(28, 153, 211);
+    border-radius: 5px;
+    margin-left: 2em;
 }
-.border-line{ border-bottom: 1px solid rgb(73, 72, 72); }
+.border-line{ 
+    border-bottom: 1px solid rgb(145, 138, 138); 
+    padding-top: 1em;
+ }
+.task{
+    margin-left: 2.5em; 
+    padding-top: 2em;
+    margin-bottom: 1em;
+ }   
+.editorial{
+    background-color: rgb(28, 153, 211);
+    color: white;
+    border-radius: 5px;
+    padding: 0.3rem;
+}
+.today{
+    margin-left: 2.5em; 
+    padding-top: 2em;
+    margin-bottom: 1em;
+ } 
+ .q1-goals{
+    background-color: rgb(118, 84, 146);
+    color: white;
+    border-radius: 5px;
+    padding: 0.3rem;
+ }
