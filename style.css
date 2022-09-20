@@ -34,7 +34,7 @@ main {
     border-bottom: 1px solid rgb(145, 138, 138); 
     padding-top: 1em;
  }
-.task{
+.h1{
     margin-left: 2.5em; 
     padding-top: 2em;
     margin-bottom: 1em;
@@ -42,17 +42,41 @@ main {
 .editorial{
     background-color: rgb(28, 153, 211);
     color: white;
-    border-radius: 5px;
-    padding: 0.3rem;
+    border-radius: 8px;
+    padding: 0.2rem;
 }
-.today{
-    margin-left: 2.5em; 
-    padding-top: 2em;
-    margin-bottom: 1em;
- } 
+
  .q1-goals{
     background-color: rgb(118, 84, 146);
     color: white;
-    border-radius: 5px;
-    padding: 0.3rem;
+    border-radius: 8px;
+    padding: 0.2rem; 
  }
+ .spec{
+    margin-left: 2.5em;    
+    margin-bottom: 1em;
+ }  
+ .recruiting{
+    background-color: rgb(64, 163, 133);
+    color: white;
+    border-radius: 8px;
+    padding: 0.2rem; 
+ } 
+ .mobile{
+    background-color: rgb(233, 142, 23);
+    color: white;
+    border-radius: 8px;
+    padding: 0.2rem; 
+ } 
+ .website{
+    background-color: rgb(235, 100, 183);
+    color: white;
+    border-radius: 8px;
+    padding: 0.2rem; 
+ } 
+ .sales{
+    background-color: rgb(146, 185, 4);
+    color: white;
+    border-radius: 8px;
+    padding: 0.2rem; 
+ } 
