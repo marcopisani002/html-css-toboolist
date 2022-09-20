@@ -18,11 +18,11 @@ body{
    border-radius: 5px;
    width: 700px;
    margin: auto;
-  /*margin-top: 30px;*/
+  
 }
 
 main {
-    padding-top: 150px;
+    padding-top: 120px;
 }
 
 .bt-1{
@@ -43,7 +43,7 @@ main {
     background-color: rgb(28, 153, 211);
     color: white;
     border-radius: 8px;
-    padding: 0.2rem 0.6em;
+    padding: 0.1rem 0.6em;
 }
 
  .q1-goals{
