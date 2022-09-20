@@ -43,14 +43,14 @@ main {
     background-color: rgb(28, 153, 211);
     color: white;
     border-radius: 8px;
-    padding: 0.2rem;
+    padding: 0.2rem 0.6em;
 }
 
  .q1-goals{
     background-color: rgb(118, 84, 146);
     color: white;
     border-radius: 8px;
-    padding: 0.2rem; 
+    padding: 0.2rem 0.6em; 
  }
  .spec{
     margin-left: 2.5em;    
@@ -60,23 +60,23 @@ main {
     background-color: rgb(64, 163, 133);
     color: white;
     border-radius: 8px;
-    padding: 0.2rem; 
+    padding: 0.2rem 0.6em; 
  } 
  .mobile{
     background-color: rgb(233, 142, 23);
     color: white;
     border-radius: 8px;
-    padding: 0.2rem; 
+    padding: 0.2rem 0.6em; 
  } 
  .website{
     background-color: rgb(235, 100, 183);
     color: white;
     border-radius: 8px;
-    padding: 0.2rem; 
+    padding: 0.2rem 0.6em; 
  } 
  .sales{
     background-color: rgb(146, 185, 4);
     color: white;
     border-radius: 8px;
-    padding: 0.2rem; 
- } 
+    padding: 0.2rem 0.6em; 
+} 
